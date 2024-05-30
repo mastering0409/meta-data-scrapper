@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@microlink/mql": "^0.12.2",
+    "metadata-scraper": "^0.2.61",
+    "metascraper": "^5.45.0",
+    "unfluff": "^3.2.0",
+    "url-metadata": "^3.5.6"
+  },
+  "scripts": {
+    "start": "node index.ts"
+  }
+}
